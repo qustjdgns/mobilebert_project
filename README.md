@@ -16,8 +16,9 @@
 본 프로젝트는 이러한 사용자 리뷰 데이터를 기반으로, 음악 서비스에 대한 긍정적인 리뷰와 부정적인 리뷰를 분류하는 감성 분석 모델을 개발하는 것입니다. 감성 분석을 통해 서비스의 사용자 피드백을 보다 쉽게 분석하고, 개선할 부분을 찾을 수 있습니다.
 
 
-![스크린샷 2025-03-27 145133](https://github.com/user-attachments/assets/b71e605c-d3fa-4a4c-aa8d-bb78c12a1569)
-![R](https://github.com/user-attachments/assets/7ca79d64-1041-4b4d-8825-237f2d9cc34a)
+![image_readbot_2018_274019_15250473433292396](https://github.com/user-attachments/assets/20cb8502-9d08-483c-968b-517170b22f7a)
+
+
 
 
 ---
