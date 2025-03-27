@@ -17,6 +17,7 @@
 
 
 ![스크린샷 2025-03-27 145133](https://github.com/user-attachments/assets/b71e605c-d3fa-4a4c-aa8d-bb78c12a1569)
+![R](https://github.com/user-attachments/assets/7ca79d64-1041-4b4d-8825-237f2d9cc34a)
 
 
 ---
