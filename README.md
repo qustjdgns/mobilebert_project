@@ -69,11 +69,16 @@ MobileBERT는 모바일 환경에서 효율적으로 작동하는 경량화된 B
 훈련 데이터에 대한 손실(loss)은 꾸준히 감소하고 있으며, 정확도(accuracy)는 상승하는 추세를 보였습니다. 이를 통해 모델이 잘 학습되고 있음을 확인할 수 있습니다.
 
 ![변성훈과제자료](https://github.com/user-attachments/assets/2ef0c09b-62ea-4148-aeeb-f5caa97618af)
+![변성훈과제자료2](https://github.com/user-attachments/assets/43343811-d2e4-49cb-a4a7-5c406d8cb261)
 
 ### 4.2 모델 성능
 
 모델이 학습한 후, 전체 데이터에 대해 성능을 평가한 결과, 긍정/부정 예측 정확도는 약 **76%**로 나타났습니다. 이는 모델이 대부분의 리뷰에 대해 정확한 감성을 예측한다는 것을 의미합니다.
-![변성훈과제자료2](https://github.com/user-attachments/assets/43343811-d2e4-49cb-a4a7-5c406d8cb261)
+
+Epoch 1: Train loss: 10068.7859, Train Accuracy:0.9559,Validation Accuracy:0.9368
+Epoch 2: Train loss: 0.5082, Train Accuracy:0.9723,Validation Accuracy:0.9385
+Epoch 3: Train loss: 0.2409, Train Accuracy:0.9843,Validation Accuracy:0.9430
+Epoch 4: Train loss: 0.0893, Train Accuracy:0.9886,Validation Accuracy:0.9425
 
 
 ### 4.3 오류 분석
