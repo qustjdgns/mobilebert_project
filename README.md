@@ -99,6 +99,7 @@ MobileBERT는 모바일 환경에서 효율적으로 작동하는 경량화된 B
 ## 참고 문헌
 
 [Engadget - Spotify reaches more than half a billion users](https://www.engadget.com/spotify-reaches-more-than-half-a-billion-users-for-the-first-time-142818686.html)
+
 [Spotify Dataset - Kaggle](https://www.kaggle.com/datasets/alexandrakim2201/spotify-dataset)
 
 ---
