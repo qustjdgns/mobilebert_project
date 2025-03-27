@@ -91,8 +91,8 @@ MobileBERT는 모바일 환경에서 효율적으로 작동하는 경량화된 B
 
 ## 참고 문헌
 
-1. [Engadget - Spotify reaches more than half a billion users](https://www.engadget.com/spotify-reaches-more-than-half-a-billion-users-for-the-first-time-142818686.html)
-2. [Towards Data Science - Handling Imbalanced Datasets in Deep Learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-deep-learning-f48407a0e758)
+[Engadget - Spotify reaches more than half a billion users](https://www.engadget.com/spotify-reaches-more-than-half-a-billion-users-for-the-first-time-142818686.html)
+
 
 ---
 
