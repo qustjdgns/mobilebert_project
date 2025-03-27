@@ -75,10 +75,8 @@ MobileBERT는 모바일 환경에서 효율적으로 작동하는 경량화된 B
 
 모델이 학습한 후, 전체 데이터에 대해 성능을 평가한 결과, 긍정/부정 예측 정확도는 약 **76%**로 나타났습니다. 이는 모델이 대부분의 리뷰에 대해 정확한 감성을 예측한다는 것을 의미합니다.
 
-Epoch 1: Train loss: 10068.7859, Train Accuracy:0.9559,Validation Accuracy:0.9368
-Epoch 2: Train loss: 0.5082, Train Accuracy:0.9723,Validation Accuracy:0.9385
-Epoch 3: Train loss: 0.2409, Train Accuracy:0.9843,Validation Accuracy:0.9430
-Epoch 4: Train loss: 0.0893, Train Accuracy:0.9886,Validation Accuracy:0.9425
+![스크린샷 2025-03-27 140106](https://github.com/user-attachments/assets/02b6c954-e227-462b-9930-22743413e2e6)
+
 
 
 ### 4.3 오류 분석
