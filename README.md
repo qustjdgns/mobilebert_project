@@ -82,10 +82,6 @@
 
 학습 손실 (Train Loss)
 
-X축: Epoch (학습 반복 횟수)
-
-Y축: Loss (손실 값)
-
 초기 손실 값이 매우 높다가 (약 12,500), Epoch 2 이후 급격히 감소하여 거의 0에 수렴합니다.
 
 검증 정확도 (Validation Accuracy)
