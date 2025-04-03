@@ -2,7 +2,8 @@
 
 
 ###  긍정 혹은 부정을 예측하는 인공지능 모델을 개발
-![1993900290_20201218103944_2915614589](https://github.com/user-attachments/assets/912bac09-64a9-41e1-aebd-e90062eb76d7)
+![Uploading Spotify_Full_Logo_RGB_Green.png…]()
+
 
 ---
 
