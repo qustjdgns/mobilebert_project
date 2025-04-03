@@ -62,10 +62,10 @@
 - **토큰화 및 불용어(stopwords) 제거**: 의미 없는 단어 제거
 - **라벨링** : 4, 5인 리뷰에는 긍정(1) 1, 2인 리뷰에는 부정(0)을 부여, 평점3은 제외 
 
-## 분석 데이터 
+## 분석 데이터 구성 
 
-![image](https://github.com/user-attachments/assets/27364a6d-7d49-410d-86b3-bdb9e6fc2f06)
-![시각화1](https://github.com/user-attachments/assets/9c05fd69-a1d4-4e94-91a7-4f389c6a64d6)
+![Figure_1](https://github.com/user-attachments/assets/807b90c1-15db-4c38-b0b8-1440a76eb18a)
+
 - 여전히 긍정적인 리뷰 보다 부정적인 리뷰가 압도적으로 많은것을 다시 확인 할 수 있었습니다.
 - 분석의 정확도를 높이기 위해 긍정적인리뷰와 부정적인 리뷰의 데이터를 각각 15000개씩추출, 총 30,000개의 학습데이터로 재구성 하였습니다.
 
