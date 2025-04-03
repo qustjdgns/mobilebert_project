@@ -37,7 +37,8 @@
 
 ## 원본 데이터
 
-![image](https://github.com/user-attachments/assets/0f5e4524-9b71-4f25-bcaa-1d872f4598c5)
+![image](https://github.com/user-attachments/assets/af29b164-f260-4bc1-a684-9e8ad61a048c)
+
 
 
 
