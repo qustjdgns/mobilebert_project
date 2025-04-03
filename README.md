@@ -13,7 +13,8 @@
 음악 스트리밍 서비스는 최근 몇 년 간 급성장하고 있으며, 다양한 음악을 손쉽게 접근할 수 있는 플랫폼들이 늘어나고 있습니다. Spotify와 같은 서비스는 전 세계적으로 수억 명의 사용자들에게 인기를 끌고 있습니다. 이러한 서비스들은 단순히 음악을 스트리밍하는 것에 그치지 않고, 사용자 리뷰, 평가, 추천 시스템 등 다양한 기능을 제공합니다.
 
 
-![image_readbot_2018_274019_15250473433292396](https://github.com/user-attachments/assets/20cb8502-9d08-483c-968b-517170b22f7a)
+![image](https://github.com/user-attachments/assets/9ec2db8e-9f3f-4a8c-83fe-b831dbbe7ee4)
+
 
 ### 1.2 문제 정의
 
