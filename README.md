@@ -1,7 +1,8 @@
 # 🎶 MobileBERT를 활용한 스포티파이 리뷰 분석  🎶
-![image](https://github.com/user-attachments/assets/8378d3b9-76cc-42dd-a607-fe41d4382781)
+
 
 ###  긍정 혹은 부정을 예측하는 인공지능 모델을 개발
+****![image](https://github.com/user-attachments/assets/760648f3-0af4-46a1-b937-a0a60aa7740c)
 
 ---
 
