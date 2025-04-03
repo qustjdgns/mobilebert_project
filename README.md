@@ -50,7 +50,8 @@
 
 
 ## 원본 데이터 분석
-![Figure_12](https://github.com/user-attachments/assets/76345925-0656-4477-bfe5-bad2c6a0b62c)
+![image](https://github.com/user-attachments/assets/51a1f109-2233-46c3-84e2-e2b14a4258fd)
+
 - 이 그래프를 통해 1점 리뷰가 압도적으로 많아 부정적인 피드백이 많이 존재함을 확인할 수 있으며,
 전반적으로 낮은 점수가 높은 점수보다 많아 서비스에 대한 사용자 불만이 많을 가능성이 있음을 시사합니다.
 
