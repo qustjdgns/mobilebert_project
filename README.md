@@ -74,7 +74,7 @@
 
 ---
 
-## 🎵 3. 결
+## 🎵 3. 결과
 
 ##  3-1. MobileBERT 학습 결과
 ![Figure_1](https://github.com/user-attachments/assets/c4c951cf-bb75-461d-a9d1-bda3214c29bf)
