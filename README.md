@@ -37,7 +37,8 @@
 
 ## 원본 데이터
 
-![image](https://github.com/user-attachments/assets/94a94c3f-8a0b-4ab8-a3b3-6367c25d5167)
+![image](https://github.com/user-attachments/assets/0f5e4524-9b71-4f25-bcaa-1d872f4598c5)
+
 
 
 - content: 사용자 리뷰의 내용입니다. 예를 들어, 앱의 기능에 대한 불만, 추천, 개선사항 등이 포함됩니다.
