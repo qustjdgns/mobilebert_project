@@ -2,7 +2,7 @@
 
 
 ###  긍정 혹은 부정을 예측하는 인공지능 모델을 개발
-****![image](https://github.com/user-attachments/assets/760648f3-0af4-46a1-b937-a0a60aa7740c)
+![1993900290_20201218103944_2915614589](https://github.com/user-attachments/assets/912bac09-64a9-41e1-aebd-e90062eb76d7)
 
 ---
 
