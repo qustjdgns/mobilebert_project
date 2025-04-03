@@ -78,7 +78,7 @@
 
 ##  3-1. MobileBERT 학습 결과
 ![Figure_1](https://github.com/user-attachments/assets/c4c951cf-bb75-461d-a9d1-bda3214c29bf)
-![스크린샷 2025-04-03 194717](https://github.com/user-attachments/assets/d0f7bc05-d6d6-4de4-84f5-55b2eb3f11bf)
+
 
 - 학습 손실 (Train Loss)
 
@@ -91,11 +91,17 @@
   모델이 학습하면서 일관되게 정확도가 증가하는것으로 보아 학습이 잘되고 있다고 볼 수 있습니다
 
   하지만 Epoch 3 이후 증가 폭이 둔화되므로 학습률 조정이나 추가 데이터 검토가 필요할 수도 있습니다.
+  
+![스크린샷 2025-04-03 194717](https://github.com/user-attachments/assets/d0f7bc05-d6d6-4de4-84f5-55b2eb3f11bf)
+- Epoch 3 이후 과적합 가능성이 높아지고 Epoch 4에서 손실 값이 증가하며, 훈련 정확도는 계속 오르지만 검증 정확도는 멈춰 있어서 모델이 훈련 데이터에 과하게 맞춰져 일반화가 부족합니다.
+
 
 ## 3.2 분석 데이터 전체에 적용한 결과
+![ddddd](https://github.com/user-attachments/assets/d0bea670-3dff-454a-b2bb-33b5df2674f7)
 
-
-
+![Figure_111](https://github.com/user-attachments/assets/765456dc-cb0e-4447-9529-c2e1bbdc9cd0)
+- 최종 정확도(accuracy)가 약 88.51% 달성
+- 모델이 부정적 리뷰(13774개)와 긍정적 리뷰(12780개)를 대부분 정확하게 예측하며, 감성 분석에서 높은 정확도를 유지하고 있습니다. 또한, 긍정과 부정 감성을 균형 있게 분류하며 전반적으로 신뢰할 수 있는 결과를 제공합니다. 이러한 성능을 바탕으로 다양한 텍스트 데이터에서 감성 분석을 효과적으로 활용할 수 있을 것으로 기대됩니다.
 ---
 
 ## 🎵 4. 느낀점
