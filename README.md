@@ -1,7 +1,8 @@
-# 🎶 MobileBERT를 활용한 스포티파이 리뷰 분석  🎶
+# 🎶  MobileBERT를 활용한 Spotify 리뷰 감성 분석  🎶
+
+사용자 리뷰를 통해 Spotify 앱의 긍정/부정 감정을 분석하는 인공지능 모델을 개발하였습니다. 본 프로젝트에서는 MobileBERT를 활용해 대규모 리뷰 데이터를 분류하고, 주요 문제 버전을 식별하여 개선 포인트를 도출하는 것을 목표로 하였습니다.
 
 
-###  긍정 혹은 부정을 예측하는 인공지능 모델을 개발
 ![image](https://github.com/user-attachments/assets/a4d35ca1-1626-4ad4-a7f4-500600a710b4)
 
 
