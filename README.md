@@ -119,6 +119,6 @@
 
 [Engadget - Spotify reaches more than half a billion users](https://www.engadget.com/spotify-reaches-more-than-half-a-billion-users-for-the-first-time-142818686.html)
 
-[[Spotify Dataset - Kaggle](https://www.kaggle.com/datasets/alexandrakim2201/spotify-dataset)](https://www.kaggle.com/datasets/ashishkumarak/spotify-reviews-playstore-daily-update?resource=download)
+[[[Spotify Dataset - Kaggle](https://www.kaggle.com/datasets/alexandrakim2201/spotify-dataset)](https://www.kaggle.com/datasets/ashishkumarak/spotify-reviews-playstore-daily-update?resource=download)](https://www.kaggle.com/datasets/ashishkumarak/spotify-reviews-playstore-daily-update?resource=download)
 
 ---
