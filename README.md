@@ -106,6 +106,9 @@
 
 ## 분석 데이터 구성 
 ![Figure_12222](https://github.com/user-attachments/assets/b937f01b-e477-4303-823b-15ebaafb0803)
+
+
+
 → 긍/부정 각각 15,000개씩 균형 있게 샘플링하여 총 30,000개의 학습 데이터 구성
 
 
