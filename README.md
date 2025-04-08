@@ -38,9 +38,11 @@
 ![image](https://github.com/user-attachments/assets/05a1ed6d-63a0-4111-9c73-67e69e5d3339)
 
 
-해당기간 부정 데이터 위주로 갑자기 급증한 사실을 확인 할 수 있습니다.
+특정기간 부정 데이터 위주로 갑자기 급증한 사실을 확인 할 수 있습니다.
 
+부정적인 리뷰가 특정기간에 왜 급증하엿는지 알아보기위해 특정 기간때 사용자들이 가장 리뷰를 많이 쓴 스포티파이 ver을 확인해 보겠습니다.
 
+![image](https://github.com/user-attachments/assets/bd542410-9705-482d-9873-688618e18e2c)
 
 ---
 
