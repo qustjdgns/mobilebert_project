@@ -42,7 +42,8 @@
 
 부정적인 리뷰가 특정기간에 왜 급증하엿는지 알아보기위해 특정 기간때 사용자들이 가장 리뷰를 많이 쓴 스포티파이 ver을 확인해 보겠습니다.
 
-![image](https://github.com/user-attachments/assets/bd542410-9705-482d-9873-688618e18e2c)
+![image](https://github.com/user-attachments/assets/f64408ee-2486-4060-b2f0-db2b01533932)
+
 
 가장 많이쓴 8.8.96.364 버전을 기준으로 해당버전의 문제점을 확인해보겠습니다.
 
